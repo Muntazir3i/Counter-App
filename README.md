@@ -1,2 +1,2 @@
 # Counter-App
-Counter App with save function
+Counter App with count saving function
